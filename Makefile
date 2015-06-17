@@ -12,6 +12,6 @@ test:
 			--reporter $(TEST_REPORTER) \
 			--compilers coffee:coffee-script \
 			test/*.coffee
-			
+
 
 .PHONY: test
